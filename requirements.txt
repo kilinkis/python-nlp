@@ -1,0 +1,4 @@
+pandas>=2.2
+nltk>=3.9
+spacy>=3.8
+matplotlib>=3.9
