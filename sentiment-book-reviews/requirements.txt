@@ -1,0 +1,6 @@
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.5
+vaderSentiment>=3.3
+transformers>=4.44
+torch>=2.4
