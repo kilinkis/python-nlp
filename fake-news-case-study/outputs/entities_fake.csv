@@ -1,0 +1,11 @@
+entity,type,count
+Trump,ORG,143
+Trump,PERSON,78
+Clinton,PERSON,74
+Donald Trump,PERSON,63
+Obama,PERSON,49
+Syria,GPE,42
+Republican,NORP,41
+McCain,PERSON,39
+America,GPE,36
+Hillary Clinton,PERSON,34

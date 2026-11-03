@@ -10,5 +10,6 @@ a README, data, code, a walkthrough notebook and generated outputs.
 | [vectorization-bow-tfidf](vectorization-bow-tfidf/) | Turns text into numeric vectors and compares what each method captures | Bag of Words, TF-IDF (scikit-learn) |
 | [topic-modelling-lda-lsa](topic-modelling-lda-lsa/) | Discovers the hidden themes in 100 news articles | Topic modelling: LDA, LSA, topic coherence (scikit-learn) |
 | [text-classifier-logreg](text-classifier-logreg/) | Trains a sentiment classifier from 20 sentences and shows why that is too little data | Supervised classification, logistic regression, cross-validation (scikit-learn) |
+| [fake-news-case-study](fake-news-case-study/) | Compares fake and factual news and asks what a classifier really learns | POS/NER, sentiment, TF-IDF classification, cross-validation (spaCy, scikit-learn) |
 
 Each project lists its own dependencies in its `requirements.txt`, so you only install what you need.
